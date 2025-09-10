@@ -69,3 +69,4 @@ next-env.d.ts
 *.ntvs*
 *.njsproj
 *.sln
+npm install --save-dev @next/swc-win32-x64-msvc
